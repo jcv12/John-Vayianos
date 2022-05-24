@@ -7,7 +7,7 @@ Full Stack Web Developer
 I've been coding since I was in elementary school and want to show my skills to the world
 
 * 🌍  I'm based in Florida
-* 🖥️  See my portfolio at [My Portfolio](http://https://jcv12.github.io/Official-Portfolio/)
+* 🖥️  See my portfolio at [My Portfolio](https://jcv12.github.io/Official-Portfolio/)
 * ✉️  You can contact me at [john.c.vayianos@gmail.com](mailto:john.c.vayianos@gmail.com)
 
 ### Skills
