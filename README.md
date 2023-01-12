@@ -34,10 +34,4 @@ I've been coding since I was in elementary school and want to show my skills to 
 <p align="left"> <a href="https://www.github.com/jcv12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/john-vayianos-114257228/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/jcv12"><img src="https://github-readme-stats.vercel.app/api?username=jcv12&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jcv12's GitHub stats" /></a>
-
 <p><a href="https://www.buymeacoffee.com/jcv12"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jcv12" /></a></p><br><br>
