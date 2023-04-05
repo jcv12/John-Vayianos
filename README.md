@@ -1,7 +1,7 @@
 Hi 👋 My name is John Vayianos
 ================================
 
-Full Stack Software Engineer / Web Developer
+Full Stack Software Engineer
 ------------------------
 
 I've been coding since I was in elementary school and want to show my skills to the world
