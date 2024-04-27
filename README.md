@@ -4,7 +4,7 @@ Hi 👋 My name is John Vayianos
 Full Stack Software Engineer
 ------------------------
 
-I've been coding since I was in elementary school and want to show my skills to the world
+I've been coding since I was in little and want to show my skills to the world
 
 * 🌍  I'm based in Florida
 * 🖥️  See my portfolio at [My Portfolio](https://jcv12.github.io/Portfolio/)
